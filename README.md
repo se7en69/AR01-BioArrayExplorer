@@ -1,6 +1,7 @@
 # AR01-BioArrayExplorer
 Microarray Dataset Analysis App offers metadata exploration, counts data analysis, differential expression analysis, and gene set enrichment analysis, providing a user-friendly interface and downloadable results for convenient analysis and sharing.
-Microarray Dataset Analysis App
+
+# Microarray Dataset Analysis App
 Welcome to the Microarray Dataset Analysis App! Here's what you can expect:
 
 1. Metadata Exploration
